@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+/* 
 :root {
   --foreground-rgb: 0, 0, 0;
   --background-start-rgb: 214, 219, 220;
@@ -14,8 +14,13 @@
     --background-start-rgb: 0, 0, 0;
     --background-end-rgb: 0, 0, 0;
   }
+} */
+.hai{
+  background:linear-gradient(170deg, rgb(167 243 208), rgb(167, 243, 208) 50%, rgba(210, 252, 232, 0.274) 50.7%, rgb(197, 248, 224) 100%);
 }
-
+.hai2{
+  background:linear-gradient(350deg, rgb(167 243 208), rgb(167, 243, 208) 30%, rgba(215, 243, 230, 0.342) 30.7%, rgba(215, 243, 230, 0.342) 100%);
+}
 body {
   color: rgb(var(--foreground-rgb));
   background: linear-gradient(
