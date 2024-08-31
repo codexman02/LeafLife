@@ -12,7 +12,7 @@ export default function Footer(){
                         <img src="./logo.svg" alt="" />
                     </div>
                     <div className="headings px-8 pt-6 sm:px-4 md:px-5 md2:px-7 lg:px-10 sm:pt-5 md:pt-5 lg:pt-5 flex flex-col relative z-10">
-                        <h2 className="text-gray-900 font-bold text-2xl sm:text-2xl  md:text-3xl">Bring Natural Charm To Your Life</h2>
+                        <h2 className="text-gray-900 font-bold text-3xl sm:text-3xl  md:text-4xl lg:text-4xl">Bring Natural Charm To Your Life</h2>
                         <p className="py-4 text-gray-800 relative z-10 sm:text-sm md:text-base"> 
                             Explore our huge catalogue of plant products, you&apos;ll be impressed by the variety we offer! Want to place a custom order? Leave us a message, we&apos;ll reply ASAP.
                         </p>
