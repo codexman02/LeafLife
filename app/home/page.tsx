@@ -58,7 +58,7 @@ export default function HomePageBanner(){
                       {/* LEFT RECTANGLE ENDS HERE   */}
 
 <div className="banner_text flex flex-col w-11/12 sm:w-full relative z-20 h-full justify-center items-center mt-8  sm:mt-0">
-    <div className="md:w-full lg:w-11/12 flex   flex-col items-center px-10 sm:px-12 md:px-16 ">
+    <div className="md:w-full lg:w-11/12 flex   flex-col items-center px-8 sm:px-12 md:px-16 ">
     <h3 className="text-4xl  sm:text-5xl  md:text-5xl  lg:text-6xl xl:text-7xl relative font-bold w-full mt-4">
         Enhance your <br/>setup with botanical <span className="inline-block relative after:content-[''] after:absolute  after:-bottom-2 sm:after:-bottom-3 after:right-0 sm:after:right-1 md:after:right-3  after:w-full after:h-2 after:bg-emerald-500  md:after:inline-block sm:after:h-2"><pre className={inter.className}>decor  </pre> </span>
     </h3>
